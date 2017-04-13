@@ -1,4 +1,4 @@
-/*
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -28,16 +28,6 @@ public class test {
         br.close();
         fr.close();
     }
-    public static void parse(String line)
-    {
-        private final String Label;
-        private final String Operation;
-        private final String[] Symbols;
-        private final String _comment;
-        private final boolean Extend;
-        private transient int _location;
-
-    }
 
     public static void main(String args[])
     {
@@ -55,4 +45,5 @@ public class test {
 
 
 }
-*/
+
+
